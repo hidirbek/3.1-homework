@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+.container {
+  width: 100% !important;
+  margin: auto;
+}
+header{
+  width: 100% !important;
+  margin-top: 20px;
+}
+.site-header {
+  width: 100% !important;
+}
+.logo-wrapper {
+}
+.site-logo {
+  font-weight: 900;
+}
+.nav-list {
+
+}
+.nav-list-items {
+  margin-left: 20px;
+}
+.nav-links {
+  font-weight: 600;
+}
+.nav-links:hover{
+  color: orange !important;
+}
+.social_media-list {
+
+}
+.social_media-list-item {
+  margin-left: 10px;
+}
